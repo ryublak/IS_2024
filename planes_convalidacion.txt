@@ -1,0 +1,28 @@
+[Plan]
+ID=PLAN001
+Titulacion===Ingeniería Informática
+Centro=Escuela de Ingeniería
+Universidad=Universidad de Córdoba
+[Asignaturas]
+INF101;Programación I;6
+INF102;Estructuras de Datos;6
+---
+[Plan]
+ID=PLAN002
+Titulacion===Matemáticas
+Centro=Facultad de Ciencias
+Universidad=Universidad de Sevilla
+[Asignaturas]
+MAT201;Cálculo I;6
+MAT202;Álgebra Lineal;6
+MAT203;Probabilidad;5
+---
+[Plan]
+ID=003
+Titulacion===Mecánica
+Centro=Politécnica
+Universidad=UCO
+[Asignaturas]
+1;1;1
+2;2;2
+---

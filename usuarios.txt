@@ -1,0 +1,5 @@
+admin@uco.es;1234;Juan;Pérez;Administrador
+profesor1@uco.es;abcd;Laura;Gómez;Profesor
+alumno1@uco.es;pass123;Carlos;Ruiz;Alumno
+alumno2@uco.es;clave456;Marta;Sánchez;Alumno
+profesor2@uco.es;profpass;Ana;López;Profesor
